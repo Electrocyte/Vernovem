@@ -6,8 +6,11 @@
 
 **Background:** Acolyte - A devoted priest of Verdancy who serves as a spiritual historian.
 
-### Note
-- Chose to undergo Growth ritual - gained
+### Notes
+- Chose to undergo Growth ritual
+- Lost:
+- All memory of their childhood - the grief of losing his childhood friends to Novemnine, and most painfully of all, forgiving Novemnine.
+- Gained:
 - The Seer's Clarity: Having surrendered potential never realized, the character gains prophetic glimpses of paths not taken. They occasionally experience vivid dreams showing alternate realities and possible futures. These visions grant them recognition as an oracle within Verdant circles, with pilgrims seeking their guidance at moments of decision. Their eyes develop subtle golden flecks that gleam when they speak of possibilities.
 - Reached Blossoming
 
