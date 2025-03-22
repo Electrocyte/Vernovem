@@ -6,7 +6,7 @@
 
 **Background:** Soldier - A tactical operative trained to eliminate threats to the natural cycle.
 
-### Note
+### Notes
 - Chose to undergo Rebirth ritual
 - Lost:
 - Memory of a failed ritual of the Seed spreader in the Deezel Grove, leading to PTSD.
