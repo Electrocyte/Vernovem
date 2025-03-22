@@ -6,6 +6,11 @@
 
 **Background:** Acolyte - A devoted priest of Verdancy who serves as a spiritual historian.
 
+### Note
+- Chose to undergo Growth ritual - gained
+- The Seer's Clarity: Having surrendered potential never realized, the character gains prophetic glimpses of paths not taken. They occasionally experience vivid dreams showing alternate realities and possible futures. These visions grant them recognition as an oracle within Verdant circles, with pilgrims seeking their guidance at moments of decision. Their eyes develop subtle golden flecks that gleam when they speak of possibilities.
+- Reached Blossoming
+
 ### Character Concept
 Petalwin emerged from the Tecoma Tree of Rosadake during dusk, their bark-like skin a rich amber hue with golden veins running throughout. Perpetually curious and philosophical, they have dedicated their life to preserving the wisdom of Verdancy through stories and songs. As a respected historian of Verdant Orders, they believe Alarak's controversial methods threaten the core principles of balanced growth. They accompany him not as an ally, but as a witness who must document what occurs and determine if there is truth in his radical approach.
 
