@@ -1,10 +1,19 @@
-# Thorn Blackbark
+# Compost Malone
 ## Level 8 Nightborn Vernovem - Withering Blade
 *Gloomstalker Ranger (5) / Withering Vanguard Multiclass (3)*
 
 *Medium Plant/Fey, Lawful Neutral*
 
 **Background:** Soldier - A tactical operative trained to eliminate threats to the natural cycle.
+
+### Note
+- Chose to undergo Rebirth ritual
+- Lost:
+- Memory of a failed ritual of the Seed spreader in the Deezel Grove, leading to PTSD.
+- Gained:
+- The Phoenix Echo: Having surrendered a defining aspect of their past, the character develops the ability to dramatically reinvent themselves. Once per season, they can undergo a physical and spiritual renewal, emerging changed in appearance and with shifted abilities. Their legend grows as stories spread of the many "different" individuals who are actually the same person reborn again and again. Communities mark their transformations with festivals, believing they herald natural turning points.
+- Reached Blossoming
+
 
 ### Character Concept
 Thorn emerged from the Tecoma Tree of Rosadake under moonless night skies, their bark-like skin darkened to near black with thorny protrusions that extend when they channel their magic. The Cyclewardens identified their innate connection to death's necessity in the natural cycle and trained them as part of the Withering Vanguard. Now a skilled operative who unerringly identifies and eliminates corruption, Thorn has been tasked with monitoring Alarak's expedition to ensure it doesn't violate fundamental verdant principles.
